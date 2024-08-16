@@ -1,1 +1,1 @@
-# CSIS311-ML
+# Introduction to Machine Learning
